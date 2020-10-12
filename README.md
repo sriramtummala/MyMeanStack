@@ -13,3 +13,5 @@ For MongoDb and Node server setup
 4. npm i nodemon -D
 5. nodemon (your database is ready and connected localhost:3000 in postman should be successful)
 
+For Frontend, look for readme under Src folder
+
